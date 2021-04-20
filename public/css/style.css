@@ -1,0 +1,19 @@
+body{
+    background-color: #015f9e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+#navegação #drop{
+    text-align: center;
+}
+#caixa_perguntas{
+    margin: 3% 10% 3%;
+    
+}
+#card_pagpergunta{
+    margin: 10vh;
+    border: 2px solid rgba(0, 0, 0, 0.363);
+    padding: 5vh;
+}
