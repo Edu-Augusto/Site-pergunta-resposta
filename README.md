@@ -5,4 +5,4 @@
 <br>
 <h3>Instruções</h3>
 <br>
-<p>Após instalar as ferramentas, crie um banco de dados com o nome "perguntaresposta" ou vá no arquivo databse.js e modifique o campo "perguntaresposta" em <b>new Sequelize()</b> para o nome que deseja criar o seu banco de dados.</p>
+<p>Após instalar as ferramentas, crie um banco de dados com o nome "perguntaresposta" ou vá no arquivo databse.js e modifique o campo "perguntaresposta" em <strong>new Sequelize()</strong> para o nome que deseja criar o seu banco de dados.</p>
